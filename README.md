@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![brow-lift](https://github.com/youssefbarj/brow-lift/raw/main/screenshot.png)
+![brow-lift](https://raw.githubusercontent.com/youssefbarj/brow-lift/main/screenshot.png)
 
 ## What this slide does
 
